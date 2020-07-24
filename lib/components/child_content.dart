@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class ChildContent extends StatelessWidget {
   ChildContent({@required this.writtenText, this.writtenIcon});
